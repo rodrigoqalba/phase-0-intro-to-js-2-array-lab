@@ -30,5 +30,5 @@ function removeLastCat() {
 }
 
 function removeFirstCat() {
-    return cats.slice(-2);
+    return cats.slice(1);
 }
